@@ -3,10 +3,10 @@ Repo for my personal projects
 
 Links :
 
-https://vishalram14.github.io/Personal-Practice-Projects/BGmaker/
+[Gradient Picker](https://vishalram14.github.io/Personal-Practice-Projects/BGmaker/)
 
-https://vishalram14.github.io/Personal-Practice-Projects/PlayerCards/
+[Ballon d'Or personal favourites](https://vishalram14.github.io/Personal-Practice-Projects/PlayerCards/)
 
-https://vishalram14.github.io/Personal-Practice-Projects/MovieDBAPI/
+[Simple Movie DB](https://vishalram14.github.io/Personal-Practice-Projects/MovieDBAPI/)
 
-https://vishalram14.github.io/Personal-Practice-Projects/Password-Background-Blur/
+[Password Strength Checker](https://vishalram14.github.io/Personal-Practice-Projects/Password-Background-Blur/)
